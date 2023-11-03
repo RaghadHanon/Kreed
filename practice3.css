@@ -18,7 +18,7 @@
   width:1110px;
   height: 42px;
   display: flex;
-  margin:  30px 0px 0px 200px;
+  margin:  30px 0px 0px 170px;
   position: sticky;
   position: relative;
 }
@@ -94,7 +94,7 @@
   display: flex;
   width: 1440px;
   position: relative;
-  left:50px
+  left:20px
 }
 .start h1{
   font-size: 56px;
@@ -129,7 +129,7 @@
 .decor{
   position: relative;
   top:62.33px;
-  left: 690px;
+  left: 660px;
   width: 934.61px;
   height: 476.25px;
 }
