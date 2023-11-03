@@ -21,6 +21,7 @@
   margin:  30px 0px 0px 170px;
   position: sticky;
   position: relative;
+  z-index:100;
 }
 
 .logo{
